@@ -1,0 +1,25 @@
+{
+  "name": "@walcu-engineering/getpathvalue",
+  "version": "1.0.0",
+  "description": "Function that returns the path's value for the given object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walcu-Engineering/getPathValue.git"
+  },
+  "author": "Jose García Lozano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Walcu-Engineering/getPathValue/issues"
+  },
+  "homepage": "https://github.com/Walcu-Engineering/getPathValue#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  },
+  "dependencies": {
+    "@walcu-engineering/isjsonpointer": "^1.0.0"
+  }
+}
